@@ -15,8 +15,8 @@ print(squared)
 
 # Lambda as a key in dictionary
 student = {
-    'name':'Rakesh',
-    'age':36,
+    'name':'Aanchal',
+    'age':19,
     'grade': lambda x: f"Grade: {x}%"
 }
 print(student['grade'](91))
