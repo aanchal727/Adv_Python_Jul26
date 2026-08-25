@@ -1,0 +1,4 @@
+Hello Python
+This is file handling.
+We are learning Python.
+This is Day 24.
