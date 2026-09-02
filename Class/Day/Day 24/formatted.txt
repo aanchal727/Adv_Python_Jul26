@@ -1,5 +1,0 @@
-Name: Aanchal
-Age: 19
-Name: Aanchal
-Age: 19
-This line is appended
